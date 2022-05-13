@@ -70,6 +70,7 @@ public class VentanaDis extends JFrame{
 
         this.jpanelList.add(new JPanel());
         this.jpanelList.get(2).setBackground(Color.CYAN);
+        //
         
         this.jpanelList.add(new JPanel());
         this.jpanelList.get(3).setBackground(Color.BLUE);
